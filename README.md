@@ -12,13 +12,13 @@ Examples
 
 warOfNumbers([2, 8, 7, 5]) ➞ 2
 
-// 2 + 8 = 10
+ 2 + 8 = 10
 
-// 7 + 5 = 12
+ 7 + 5 = 12
 
-// 12 is larger than 10
+ 12 is larger than 10
 
-// So we return 12 - 10 = 2
+ So we return 12 - 10 = 2
 
 
 
